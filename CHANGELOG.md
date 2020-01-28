@@ -1,4 +1,5 @@
 ## latest
+  * Fixed agent local planar: now agent stops at the desired destination
   * New weather system: night time, fog, rain ripples, and now wind affects vegetation and rain (not car physics)
   * Fixed Low/Epic quality settings transition
   * Enabled Mesh distance fields
